@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "pão",
+            "price": 5.99
+        },
+        {
+            "id": 2,
+            "name": "mussarela",
+            "price": 7.99
+        },
+        {
+            "id": 3,
+            "name": "presunto",
+            "price": 5.00
+        }
+    ]
+}
